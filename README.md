@@ -11,3 +11,4 @@ Keras入門
 - [【Keras入門(6)】単純なRNNモデル定義(最終出力のみ使用)](https://qiita.com/FukuharaYohei/items/39f865bb53cdd5052179)
 - [TensorFlow ServingをUbuntuにインストールして推論](https://qiita.com/FukuharaYohei/items/13ea650c6f370111b0ba)
 - [Hyperasを使ったKerasハイパーパラメータチューニング](https://qiita.com/FukuharaYohei/items/c8cc9d80452350b449eb)
+- [超簡単 Kerasで複数Input統合モデル](https://qiita.com/FukuharaYohei/items/58cfbce0ed81833a2da1)
